@@ -5,5 +5,6 @@ return {
     { import = "astrocommunity.completion.tabnine-nvim" },
     { import = "astrocommunity.pack.rust" },
     { import = "astrocommunity.pack.python" },
+    { import = "astrocommunity.pack.cpp" },
   }
 }
